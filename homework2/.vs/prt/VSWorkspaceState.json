@@ -1,0 +1,14 @@
+{
+  "OutputFoldersPerTargetSystem": {
+    "Local Machine": [
+      "prt\\out\\build\\x64-debug",
+      "prt\\out\\install\\x64-debug",
+      "prt\\out\\build\\x64-release",
+      "prt\\out\\install\\x64-release",
+      "prt\\out\\build\\x86-debug",
+      "prt\\out\\install\\x86-debug",
+      "prt\\out\\build\\x86-release",
+      "prt\\out\\install\\x86-release"
+    ]
+  }
+}
